@@ -7,3 +7,6 @@ XYZEngine/XYZEngine.vcxproj.user
 *.ipch
 XYZEngine/.vs/*
 XYZEngine/.vs
+XYZEngine/x64
+XYZEngine/x64/*
+
