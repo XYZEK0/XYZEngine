@@ -1,15 +1,9 @@
 
-XYZEngine/.vs/XYZEngine/FileContentIndex/02b822cf-d44e-49b7-8fa9-977adb863fa0.vsidx
-XYZEngine/.vs/XYZEngine/v17/ipch/AutoPCH/210efd79173b37a1/XYZENGINE.ipch
-XYZEngine/.vs/XYZEngine/FileContentIndex/read.lock
-XYZEngine/.vs/XYZEngine/v17/Browse.VC.db
-XYZEngine/.vs/XYZEngine/v17/Browse.VC.db-shm
-XYZEngine/.vs/XYZEngine/v17/Browse.VC.db-wal
-XYZEngine/.vs/XYZEngine/v17/Browse.VC.opendb
 XYZEngine/XYZEngine.sln
 XYZEngine/XYZEngine.vcxproj
 XYZEngine/XYZEngine.vcxproj.filters
 XYZEngine/XYZEngine.vcxproj.user
 *.vsidx
 *.ipch
-XYZEngine/.vs/XYZEngine/v17/.suo
+XYZEngine/.vs/*
+XYZEngine/.vs
