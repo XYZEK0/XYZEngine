@@ -10,3 +10,6 @@ XYZEngine/XYZEngine.sln
 XYZEngine/XYZEngine.vcxproj
 XYZEngine/XYZEngine.vcxproj.filters
 XYZEngine/XYZEngine.vcxproj.user
+*.vsidx
+*.ipch
+XYZEngine/.vs/XYZEngine/v17/.suo
